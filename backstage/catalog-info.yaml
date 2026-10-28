@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-app
+  description: Python microservice for the Platform Engineering lab
+  annotations:
+    backstage.io/source-location: url:https://github.com/bonyeneke/python-app
+    github.com/project-slug: bonyeneke/python-app
+spec:
+  type: service
+  owner: group:default/development
+  lifecycle: experimental
