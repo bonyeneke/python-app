@@ -4,7 +4,7 @@ metadata:
   name: python-app
   description: Python microservice for the Platform Engineering lab
   annotations:
-    backstage.io/source-location: url:https://github.com/bonyeneke/python-app
+    backstage.io/source-location: url:https://github.com/bonyeneke/python-app/
     github.com/project-slug: bonyeneke/python-app
     backstage.io/techdocs-ref: url:https://github.com/bonyeneke/python-app/tree/main/
 spec:
