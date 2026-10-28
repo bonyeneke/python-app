@@ -6,6 +6,7 @@ metadata:
   annotations:
     backstage.io/source-location: url:https://github.com/bonyeneke/python-app
     github.com/project-slug: bonyeneke/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: group:default/development

@@ -1,0 +1,15 @@
+site_name: "python-app"
+site_description: "Documentation for the Python application"
+
+repo_url: https://github.com/bonyeneke/python-app
+edit_uri: edit/main/docs/
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting Started: index.md
+  - Application Architecture:
+      - Architecture Overview: application-architecture.md
+      - Architecture Deep Dive: application-architecture-deepdive.md
