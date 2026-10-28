@@ -10,6 +10,6 @@ plugins:
 nav:
   - Overview:
       - Getting Started: index.md
-  # - Application Architecture:
-  #     - Architecture Overview: application-architecture.md
-  #     - Architecture Deep Dive: application-architecture-deepdive.md
+  - Application Architecture:
+      - Architecture Overview: application-architecture.md
+      - Architecture Deep Dive: application-architecture-deepdive.md
